@@ -6,13 +6,8 @@ public class Main {
     {
         System.out.println("hola que ace");
 
-        for (int i = 0; i < 5; i++)
-        {
-            System.out.println(i+ "qqq");
-        }
-
         for (int i = 0; i < 5; i++) {
-            System.out.println("a");
+            System.out.println("asdf");
         }
     }
 }
